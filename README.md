@@ -80,3 +80,6 @@ supporting various image sources, resizing options, and accessibility features.
   />
 ```
 
+![WhatsApp Image 2024-06-19 at 3 59 03 PM](https://github.com/OweJeh/rn-assigment4-11260007/assets/170275241/9422bc44-47ca-4011-b441-b61d4ac7699c)
+![WhatsApp Image 2024-06-19 at 3 59 03 PM (1)](https://github.com/OweJeh/rn-assigment4-11260007/assets/170275241/72d038e2-6f33-4bda-91bb-096dab1b6769)
+
